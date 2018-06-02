@@ -1,2 +1,1 @@
-# Dompet_kita
-untuk memanajemen keuangan
+aplikasi pengelola keuangan
